@@ -39,5 +39,12 @@
 ```bash
 pip install pandas matplotlib seaborn geopy folium
 
+2. 將原始資料放入 data/ 資料夾中。
+
+3. 執行主程式。
+
+
+
+
 
 資料集來源：經濟部商業司公開資料集（以五大便利商店為主）
